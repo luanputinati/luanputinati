@@ -47,7 +47,7 @@ Artificial Intelligence platform designed to detect risk patterns and anomalies 
 
 ## 📫 Contact
 
-LinkedIn: [Luan Putinati Lorencetti]
+LinkedIn: Luan Putinati Lorencetti
 
-GitHub: [luanputinati]
+GitHub: luanputinati
 
