@@ -6,7 +6,7 @@
 Judicial Analyst • Data Science • Building SentinelGov AI
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF\&size=30\&center=true\&vCenter=true\&width=1000\&lines=Welcome+to+my+GitHub!;Judicial+Analyst+at+TRE-SP;Data+Science+Student;Building+SentinelGov+AI;Python+%7C+SQL+%7C+Power+BI;Future+International+Data+Professional)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF\&size=30\&center=true\&vCenter=true\&width=1000\&lines=Welcome+to+my+GitHub!;Judicial+Analyst+at+TRE-SP;Data+Scientist+;Building+SentinelGov+AI;Python+%7C+SQL+%7C+Power+BI;+International+Data+Professional)](https://git.io/typing-svg)
 
 ## 🚀 About Me
 
