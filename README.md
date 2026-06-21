@@ -1,9 +1,9 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header"/>
 
-<h1 align="center">Olá, eu sou Luan Putinati Lorencetti 👋</h1>
+<h1 align="center">Hi, I'am Luan Putinati Lorencetti 👋</h1>
 
 <p align="center">
-Analista Judiciário • Data Science Student • Building SentinelGov AI
+Judicial Analyst • Data Science • Building SentinelGov AI
 </p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF\&size=30\&center=true\&vCenter=true\&width=1000\&lines=Welcome+to+my+GitHub!;Judicial+Analyst+at+TRE-SP;Data+Science+Student;Building+SentinelGov+AI;Python+%7C+SQL+%7C+Power+BI;Future+International+Data+Professional)](https://git.io/typing-svg)
@@ -12,8 +12,8 @@ Analista Judiciário • Data Science Student • Building SentinelGov AI
 
 * 🇧🇷 Brazilian Citizen
 * 🇮🇹 Italian Citizen
-* ⚖️ Judicial Analyst – Administrative Area
-* 📊 Data Science Student
+* ⚖️ Judicial Analyst
+* 📊 Data Science
 * 💰 Investor and Financial Markets Enthusiast
 * 🤖 Creator of SentinelGov AI
 * 🌎 Seeking future international opportunities in Data Analytics and Data Science
@@ -40,7 +40,6 @@ Artificial Intelligence platform designed to detect risk patterns and anomalies 
 
 ## 🎯 Current Goals
 
-* Complete Data Science specialization
 * Build a strong portfolio
 * Develop SentinelGov AI
 * Improve English proficiency
@@ -48,8 +47,7 @@ Artificial Intelligence platform designed to detect risk patterns and anomalies 
 
 ## 📫 Contact
 
-LinkedIn: [your-linkedin]
+LinkedIn: [Luan Putinati Lorencetti]
 
-GitHub: [your-github]
+GitHub: [luanputinati]
 
-Email: [your-email]
